@@ -14,10 +14,21 @@ main {
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.342);
 }
 
+p, h1 {
+    margin: 8px 5px;
+}
+
 a{
     text-decoration: none;
 }
 
+ul {
+    margin-top: 0px;
+    margin-left: 375px;
+    background-color: lightblue;
+}
+
 li {
-    display: inline;
+    display: inline-block;
+    margin: 2px;
 }
